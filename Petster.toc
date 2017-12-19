@@ -1,0 +1,12 @@
+## Interface: 70300
+## Title: Petster
+## Notes: The Ultimate Strategy AddOn for World of Warcraft Pet Battles.
+## Author: Kruithne
+## Version: 1.0.0
+## SavedVariables: PetsterData
+Petster.lua
+
+## X-Contributors: bloerwald
+## X-Curse-Project-ID: petster
+## X-GitHub-Repo: Kruithne/Petster
+## X-Localization: enUS, enGB
